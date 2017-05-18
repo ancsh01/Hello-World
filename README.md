@@ -1,7 +1,6 @@
-### Hello-World
+# Hello-World
 
 1. hello  
-2. -  
-3. world
+2. world
 
 ---------------------------------
